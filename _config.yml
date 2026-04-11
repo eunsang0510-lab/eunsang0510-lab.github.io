@@ -1,0 +1,19 @@
+title: Tech Trend Daily
+description: 매일 업데이트되는 IT 기술 트렌드 & 유망 주식 분석
+url: "https://eunsang0510-lab.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: Tech Trend Daily
+
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
+
+lang: ko
