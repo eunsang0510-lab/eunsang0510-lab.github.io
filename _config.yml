@@ -12,5 +12,12 @@ permalink: /:year/:month/:day/:title/
 
 lang: ko
 
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
