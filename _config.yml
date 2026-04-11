@@ -11,3 +11,6 @@ show_excerpts: true
 permalink: /:year/:month/:day/:title/
 
 lang: ko
+
+plugins:
+  - jekyll-sitemap
