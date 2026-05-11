@@ -21,7 +21,6 @@ kramdown:
   auto_ids: true
 
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
 
