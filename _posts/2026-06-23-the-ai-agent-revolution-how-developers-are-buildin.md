@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "# The AI Agent Revolution: How Developers Are Building the Future of Autonomous Systems"
+title: "The AI Agent Revolution: How Developers Are Building the Future of Autonomous Systems"
 date: 2026-06-23 23:58:31 +0900
 lang: en
 categories: [tech-trend, en]

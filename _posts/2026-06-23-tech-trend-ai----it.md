@@ -5,7 +5,7 @@ date: 2026-06-23 23:58:06 +0900
 lang: ko
 categories: [tech-trend, ko]
 tags: ["AI Agent", "Claude Code", "LLM-Powered Systems", "Video Production", "Agentic Engineering"]
-description: "## 목차 - [글로벌 AI 에이전트 혁명과 한국의 위치](#글로벌-ai-에이전트-혁명과-한국의-위치) - [Claude Code 기반 멀티 에이전트 생태계의 부상](#claude-code-기반-멀티-에이전트-생태계의-부상) - [AI 기반 미디어 자동화, 한국 콘텐츠"
+description: "최근 GitHub Trending과 Hacker News를 장악한 키워드는 명확하다. AI Agent, Claude Code, Agentic Engineering. 자율적으로 학습하고 판단하는 지능형 에이전트가 기술의 중심으로 이동했다."
 ---
 
 ## 목차
